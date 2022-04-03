@@ -1,0 +1,5 @@
+1 Ivanov Vanya Georg 10A
+2 Petrov Alesha Petro 10C
+3 Sidorov Dmitry Aleks 10B
+4 Lukin Mixail Leonidovich 10C
+5 A B C 10A
